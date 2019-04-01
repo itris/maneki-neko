@@ -10,3 +10,4 @@
 
 ### Magento 2 B2B Extensions
 - [Magento 2 Force Login Module](https://github.com/bitExpert/magento2-force-login)
+- [Magento 2 disable customer registration](https://github.com/deved-it/magento2-disable-customer-registration)
