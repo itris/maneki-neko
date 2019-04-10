@@ -3,9 +3,10 @@
 ### Magento 2 Developers Tools
 
 
-#### Magerun2
-- [Magerun2 The swiss army knife for Magento developers](https://github.com/netz98/n98-magerun2)
+#### Tools
+- [n98-magerun2](http://magerun.net/) - The CLI Swiss Army Knife for Magento 2.
 - [Plugin for Magerun2 to list all API endpoints](https://github.com/bitExpert/magerun2-list-api-endpoints)
+- [Magento 2 Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) - Overviews of running crons in your Admin Panel.
 
 
 
