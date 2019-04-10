@@ -8,9 +8,16 @@
 - [Plugin for Magerun2 to list all API endpoints](https://github.com/bitExpert/magerun2-list-api-endpoints)
 
 
-#### Checkout tester
+
+### Helper scripts to aid upgrading magento 2 websites
+- [Magento 2 Upgrade Patch Helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper)
+
+
+
+#### Checkout Tester
 - [Magento 2 Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2)
 - [Magento 2 Preview Order Confirmation Page](https://github.com/magepal/magento2-preview-checkout-success-page/)
+
 
 
 #### Frontend
