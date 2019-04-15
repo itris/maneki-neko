@@ -1,5 +1,12 @@
 # Maneki-neko, 招き猫
 
+
+> I’m a lucky cat from the far far east
+Meow meow; I’m not a menacing beast!
+Shiny white, black, red, gold or green
+What good fortune shall I let you glean?
+
+
 ### Magento 2 Developers Tools
 
 
@@ -10,7 +17,7 @@
 
 
 
-#### Magento 2 Patch elpers
+#### Magento 2 Patch Helpers
 - [Magento 2 Upgrade Patch Helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper)
 - [Simple patches plugin for Composer](https://github.com/cweagans/composer-patches)
 
@@ -19,6 +26,8 @@
 #### Magento 2 Checkout
 - [Magento 2 Clean Checkout](https://github.com/danslo/CleanCheckout)
 - [Magento 2 Order comments](https://github.com/boldcommerce/magento2-ordercomments)
+- [Magento 2 MatrixRates](https://github.com/webshopapps/module-matrixrate)
+
 
 
 #### Checkout Tester
@@ -30,7 +39,7 @@
 #### Magento 2 Frontend Tools
 - [Magento 2 Advanced Template Hints module](https://github.com/ho-nl/magento2-Ho_Templatehints)
 - [Magento 2 Cache Clean - A faster drop in replacement for bin/magento cache:clean with file watcher](https://github.com/mage2tv/magento-cache-clean)
-
+- [Magento 2 Cache Clear - Clears cache types when they become invalidated](https://github.com/danslo/CacheClear)
 
 
 #### Magento 2 Backend Tools
