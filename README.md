@@ -1,3 +1,11 @@
+<h1 align="center>
+<br>
+<img width="512" src="" alt="Maneki-neko">
+<br>
+<br>
+<br>
+</h1>
+
 # Maneki-neko, 招き猫
 
 
@@ -27,10 +35,6 @@ What good fortune shall I let you glean?
 - [Magento 2 Clean Checkout](https://github.com/danslo/CleanCheckout)
 - [Magento 2 Order comments](https://github.com/boldcommerce/magento2-ordercomments)
 - [Magento 2 MatrixRates](https://github.com/webshopapps/module-matrixrate)
-
-
-
-#### Checkout Tester
 - [Magento 2 Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2)
 - [Magento 2 Preview Order Confirmation Page](https://github.com/magepal/magento2-preview-checkout-success-page/)
 
