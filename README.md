@@ -18,6 +18,7 @@ What good fortune shall I let you glean?
 - [n98-magerun2](http://magerun.net/) - The CLI Swiss Army Knife for Magento 2.
 - [Plugin for Magerun2 to list all API endpoints](https://github.com/bitExpert/magerun2-list-api-endpoints)
 - [Magento 2 Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) - Overviews of running crons in your Admin Panel.
+- [Magento 2 Regenerate catalog urls](https://github.com/elgentos/regenerate-catalog-urls)
 
 
 
