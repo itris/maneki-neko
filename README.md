@@ -1,10 +1,5 @@
-<h1 align="center>
-<br>
-<img width="512" src="" alt="Maneki-neko">
-<br>
-<br>
-<br>
-</h1>
+
+![logo](images/maneki-neko.png "okok")
 
 # Maneki-neko, 招き猫
 
