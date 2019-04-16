@@ -1,5 +1,5 @@
 
-![logo](images/maneki-neko.png "okok")
+![logo](images/maneki-neko.png "Magento 2 Meow meow")
 
 # Maneki-neko, 招き猫
 
@@ -9,6 +9,7 @@ Meow meow; I’m not a menacing beast!
 Shiny white, black, red, gold or green
 What good fortune shall I let you glean?
 
+---
 
 ### Magento 2 Developers Tools
 
@@ -70,3 +71,13 @@ What good fortune shall I let you glean?
 
 #### Magento 2 Security Extensions
 - [Magento 2 TwoFactorAuth](https://github.com/magento/magespecialist_TwoFactorAuth)
+
+---
+
+```ascii
+         (\_/) 
+     (  =(^Y^)=
+  ____\_(m___m)_______
+ 
+```
+
