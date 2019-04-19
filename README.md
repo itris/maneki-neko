@@ -1,4 +1,4 @@
-![logo](media/maneki-neko.png#center "Magento 2 Meow meow")
+![logo](media/maneki-neko.png "Magento 2 Meow meow")
 
 # Maneki-neko, 招き猫
 
