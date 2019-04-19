@@ -1,4 +1,6 @@
-![logo](media/maneki-neko.png "Magento 2 Meow meow")
+<p align="center">
+	<img src="./media/maneki-neko.png height="200">
+</p>
 
 # Maneki-neko, 招き猫
 
