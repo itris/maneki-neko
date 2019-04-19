@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./media/maneki-neko.png height="200">
+	<img src="./assets/maneki-neko.png height="200">
 </p>
 
 # Maneki-neko, 招き猫
