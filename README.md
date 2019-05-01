@@ -19,6 +19,7 @@ What good fortune shall I let you glean?
 - [N98-magerun2](https://github.com/netz98/n98-magerun2) — The swiss army knife for Magento developers, sysadmins and devops.
 - [Magento 2 - List all API endpoints](https://github.com/bitExpert/magerun2-list-api-endpoints) — Plugin for netz98 Magerun2 to list all API endpoints.
 - [Magento 2 - Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) — Overviews of running crons in your Admin Panel.
+- [Magento 2 - Cron Job Management and Scheduling tool](https://github.com/Ethan3600/magento2-CronjobManager) — Take command of all processes running on your Magento 2 instance. You will be able to manage all scheduled cron jobs, which means you have complete control over what tasks fire behind the scenes.
 - [Magento 2 - Regenerate catalog urls](https://github.com/elgentos/regenerate-catalog-urls) — Adds console commands to be able to regenerate; a product rewrite URL based on its url path; a category rewrite URL based on its url path.
 
 
@@ -39,13 +40,14 @@ What good fortune shall I let you glean?
 
 
 #### Frontend Tools
-- [Magento 2 - Advanced Template Hints module](https://github.com/ho-nl/magento2-Ho_Templatehints) —
-- [Magento 2 - Cache Clean - A faster drop in replacement for bin/magento cache:clean with file watcher](https://github.com/mage2tv/magento-cache-clean) —
-- [Magento 2 - Cache Clear - Clears cache types when they become invalidated](https://github.com/danslo/CacheClear) —
+- [Magento 2 - Advanced Template Hints module](https://github.com/ho-nl/magento2-Ho_Templatehints) — Shows hints for Templates, AbstractBlocks (Blocks), Containers and UI Components.
+- [Magento 2 - Cache Clean - A faster drop in replacement for bin/magento cache:clean with file watcher](https://github.com/mage2tv/magento-cache-clean) — The file watcher automatically cleans affected cache types in the Magento 2 cache during development.
+- [Magento 2 - Cache Clear](https://github.com/danslo/CacheClear) — Clears cache types when they become invalidated.
+
 
 
 #### Backend Tools
-- [Magento 2 - Login As Customer](https://github.com/magefan/module-login-as-customer) —
+- [Magento 2 - Login As Customer](https://github.com/magefan/module-login-as-customer) — Allows admin to login as a customer.
 
 
 
