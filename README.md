@@ -44,7 +44,8 @@ What good fortune shall I let you glean?
 - [Magento 2 - Advanced Template Hints module](https://github.com/ho-nl/magento2-Ho_Templatehints) — Shows hints for Templates, AbstractBlocks (Blocks), Containers and UI Components.
 - [Magento 2 - Cache Clean - A faster drop in replacement for bin/magento cache:clean with file watcher](https://github.com/mage2tv/magento-cache-clean) — The file watcher automatically cleans affected cache types in the Magento 2 cache during development.
 - [Magento 2 - Cache Clear](https://github.com/danslo/CacheClear) — Clears cache types when they become invalidated.
-
+- [Magento 2 - Config-gen](https://github.com/WeareJH/config-gen) — Generate RequireJS Optimizer configuration for Magento 2 website based on real-world usage.
+                   
 
 
 #### Backend Tools
