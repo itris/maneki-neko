@@ -21,6 +21,7 @@ What good fortune shall I let you glean?
 - [Magento 2 - Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) — Overviews of running crons in your Admin Panel.
 - [Magento 2 - Cron Job Management and Scheduling tool](https://github.com/Ethan3600/magento2-CronjobManager) — Take command of all processes running on your Magento 2 instance. You will be able to manage all scheduled cron jobs, which means you have complete control over what tasks fire behind the scenes.
 - [Magento 2 - Regenerate catalog urls](https://github.com/elgentos/regenerate-catalog-urls) — Adds console commands to be able to regenerate; a product rewrite URL based on its url path; a category rewrite URL based on its url path.
+- [Magento 2- URL Rewrite optimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) — A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in config.
 - [Magento 2 - module to log to Sentry](https://github.com/justbetter/magento2-sentry) — Module integrates the Sentry sdk into magento 2. Depending on the log level configured in the backend of magento 2, notifications and errors can be send to sentry.
 
 
