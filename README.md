@@ -1,6 +1,5 @@
-<p align="center">
-	<img src="./assets/maneki-neko.png height="200">
-</p>
+
+![maneki-neko](https://i.imgur.com/6RsLZyI.jpg)
 
 # Maneki-neko, 招き猫
 
