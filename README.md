@@ -17,7 +17,7 @@ What good fortune shall I let you glean?
 #### Tools
 - [N98-Magerun2](https://github.com/netz98/n98-magerun2) — The swiss army knife for Magento developers, sysadmins and devops.
 - [Magerun2 plugin - List all API endpoints](https://github.com/bitExpert/magerun2-list-api-endpoints) — Plugin for netz98 Magerun2 to list all API endpoints.
-
+- [Magento 2 - Remove duplicate store view-specific product and category data](https://gist.github.com/erikhansen/d74f8022902b99fd8ce1c28c987fc43b)
 
 
 #### Patch Helpers
