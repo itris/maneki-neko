@@ -50,7 +50,7 @@ What good fortune shall I let you glean?
 
 
 
-#### B2B
+#### B2B Enhancements
 - [Force Login Module](https://github.com/bitExpert/magento2-force-login) — Force your guest visitors to log in first (or register), before allowing them to visit your pages and catalog.
 - [Disable Customer Registration](https://github.com/deved-it/magento2-disable-customer-registration) — Disable the customer registration in your Magento store. It can be very useful in cases where Admin wants to create account for customers.
 - [B2B Utils](https://github.com/aune-io/magento2-b2butils) — Allows a store owner to manually approve new customers before they can successfully login and show prices only to registered / logged in users.                                                                                                                                                           
