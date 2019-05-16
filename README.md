@@ -87,7 +87,8 @@ What good fortune shall I let you glean?
 - [Adyen](https://github.com/Adyen/adyen-magento2) — Adyen Payment plugin integration module.
 - [Buckaroo](https://github.com/tig-nl/buckaroo-magento2) — Buckaroo Payment plugin integration module.
 - [Mollie](https://github.com/mollie/magento2) — Mollie Payment plugin integration module.
-
+- [Cash on Delivery Fee](https://github.com/bragento/magento2-cash-on-delivery-fee) — This module adds a configurable fee for the default cash on delivery payment Method.
+                                                                                      
 
 
 #### Frontend Enhancements 
