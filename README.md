@@ -14,10 +14,13 @@ What good fortune shall I let you glean?
 ## Magento 2 Developers Lucky Toolbelt
 
 
+
 #### Tools
 - [N98-Magerun2](https://github.com/netz98/n98-magerun2) — The swiss army knife for Magento developers, sysadmins and devops.
 - [Magerun2 plugin - List all API endpoints](https://github.com/bitExpert/magerun2-list-api-endpoints) — Plugin for netz98 Magerun2 to list all API endpoints.
+- [Magicento2](https://magicento.com/) — Magicento 2 is a PHPStorm plugin for Magento developers.
 - [Remove duplicate store view-specific product and category data](https://gist.github.com/erikhansen/d74f8022902b99fd8ce1c28c987fc43b)
+
 
 
 #### Patch Helpers
@@ -33,7 +36,7 @@ What good fortune shall I let you glean?
 - [Config-gen](https://github.com/WeareJH/config-gen) — Generate RequireJS Optimizer configuration for Magento 2 website based on real-world usage.
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) — The CheckoutTester extension allows you to preview the success-page of your Magento checkout.
 - [Preview Order Confirmation Page](https://github.com/magepal/magento2-preview-checkout-success-page/) — Easily preview and make changes to your success page without placing a new order or modifying Magento's core code, perfect for Magento frontend developers.
-            
+
 
 
 #### Backend Tools
@@ -72,6 +75,7 @@ What good fortune shall I let you glean?
 
 #### Security Extensions
 - [Two Factor Authentication](https://github.com/magento/magespecialist_TwoFactorAuth) — Module for maximum backend access protection in Magento 2.
+- [Google Recaptcha](https://github.com/karliuka/m2.ReCaptcha) — Extension is integrate Google Recaptcha with your Magento2 store.
 
 
 
@@ -79,6 +83,7 @@ What good fortune shall I let you glean?
 - [Clean Checkout](https://github.com/danslo/CleanCheckout) — A drop-in replacement for the Magento 2 checkout.
 - [Order Comments](https://github.com/boldcommerce/magento2-ordercomments) — This extension allows customers to place a comment during the checkout.
 - [MatrixRates](https://github.com/webshopapps/module-matrixrate) — A Shipping Rate module for Magento 2.x which supports showing multiple shipping methods.
+- [Tracking Link](https://github.com/karliuka/m2.TrackingLink) — Adds Tracking Url in Shipment Email.
 
 
 
@@ -94,7 +99,12 @@ What good fortune shall I let you glean?
 
 #### Frontend Enhancements 
 - [Breadcrumbs](https://github.com/karliuka/m2.Breadcrumbs) — Extension add breadcrumbs to pages in Magento 2 that by default do not have breadcrumbs.                       
+- [Smart Category](https://github.com/karliuka/m2.SmartCategory) — You can create categories based on rules you specify, and then update these categories automatically as your products changes.
+
+
+#### Support Enhancements
 - [Zendesk](https://github.com/wagento/zendesk) — Official Zendesk module for Magento 2.
+
 
 
 ---
