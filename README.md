@@ -45,6 +45,7 @@ What good fortune shall I let you glean?
 - [Cron Job Management and Scheduling tool](https://github.com/Ethan3600/magento2-CronjobManager) — Take command of all processes running on your Magento 2 instance. You will be able to manage all scheduled cron jobs, which means you have complete control over what tasks fire behind the scenes.
 - [Regenerate Catalog URLS](https://github.com/elgentos/regenerate-catalog-urls) — Adds console commands to be able to regenerate; a product rewrite URL based on its url path; a category rewrite URL based on its url path.
 - [URL Rewrite optimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) — A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in config.
+- [Indexer UrlRewrite](https://github.com/karliuka/m2.IndexerUrlRewrite) — Rebuild UrlRewrite index.
 - [Product Category Url Fix](https://github.com/aune-io/magento2-product-category-url-fix) — Fix Magento 2 core behaviour on product category url generation.
 - [Log to Sentry](https://github.com/justbetter/magento2-sentry) — Module integrates the Sentry sdk into magento 2. Depending on the log level configured in the backend of magento 2, notifications and errors can be send to sentry.
 - [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) — Displays a hint when a configuration value is overwritten on a lower scope website or store view.
@@ -57,7 +58,8 @@ What good fortune shall I let you glean?
 - [Force Login Module](https://github.com/bitExpert/magento2-force-login) — Force your guest visitors to log in first (or register), before allowing them to visit your pages and catalog.
 - [Disable Customer Registration](https://github.com/deved-it/magento2-disable-customer-registration) — Disable the customer registration in your Magento store. It can be very useful in cases where Admin wants to create account for customers.
 - [B2B Utils](https://github.com/aune-io/magento2-b2butils) — Allows a store owner to manually approve new customers before they can successfully login and show prices only to registered / logged in users.                                                                                                                                                           
-                                                             
+- [Product Available](https://github.com/karliuka/m2.ProductAvailable) — Extension allows the store owner to hide the product price and add to cart button from guests or certain customer groups. 
+
 
 
 #### Email
@@ -82,8 +84,10 @@ What good fortune shall I let you glean?
 #### Checkout Enhancements
 - [Clean Checkout](https://github.com/danslo/CleanCheckout) — A drop-in replacement for the Magento 2 checkout.
 - [Order Comments](https://github.com/boldcommerce/magento2-ordercomments) — This extension allows customers to place a comment during the checkout.
-- [MatrixRates](https://github.com/webshopapps/module-matrixrate) — A Shipping Rate module for Magento 2.x which supports showing multiple shipping methods.
+- [Matrix Rates](https://github.com/webshopapps/module-matrixrate) — A Shipping Rate module for Magento 2.x which supports showing multiple shipping methods.
 - [Tracking Link](https://github.com/karliuka/m2.TrackingLink) — Adds Tracking Url in Shipment Email.
+- [Shipping Tweaks](https://github.com/karliuka/m2.ShippingTweaks) — Hides any other shipping methods if free shipping is available.
+- [Sales Sequence](https://github.com/karliuka/m2.SalesSequence) — Change format IncrementID for orders, invoices, credit memos and shipments.
 
 
 
@@ -99,7 +103,7 @@ What good fortune shall I let you glean?
 
 #### Frontend Enhancements 
 - [Breadcrumbs](https://github.com/karliuka/m2.Breadcrumbs) — Extension add breadcrumbs to pages in Magento 2 that by default do not have breadcrumbs.                       
-- [Smart Category](https://github.com/karliuka/m2.SmartCategory) — You can create categories based on rules you specify, and then update these categories automatically as your products changes.
+- [Smart Category](https://github.com/karliuka/m2.SmartCategory) & [Smart Category Configurable](https://github.com/karliuka/m2.SmartCategoryConfigurable) — You can create categories based on rules you specify, and then update these categories automatically as your products changes.
 
 
 #### Support Enhancements
