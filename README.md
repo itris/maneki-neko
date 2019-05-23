@@ -48,6 +48,7 @@ What good fortune shall I let you glean?
 - [Indexer UrlRewrite](https://github.com/karliuka/m2.IndexerUrlRewrite) — Rebuild UrlRewrite index.
 - [Product Category Url Fix](https://github.com/aune-io/magento2-product-category-url-fix) — Fix Magento 2 core behaviour on product category url generation.
 - [Log to Sentry](https://github.com/justbetter/magento2-sentry) — Module integrates the Sentry sdk into magento 2. Depending on the log level configured in the backend of magento 2, notifications and errors can be send to sentry.
+- [Whoops error handling](https://github.com/yireo/Yireo_Whoops) — This module replaces the default error and exception handling of Magento 2, and replaces it with Whoops.
 - [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) — Displays a hint when a configuration value is overwritten on a lower scope website or store view.
 - [Product Grid Category Filter](https://github.com/aune-io/magento2-product-grid-category-filter) — Add category column and filter in an efficient way to the product grid in the Magento 2 admin.
 - [Auto Invoice](https://github.com/aune-io/magento2-autoinvoice) — Magento 2 procedure to automatically invoice orders in a given status.
