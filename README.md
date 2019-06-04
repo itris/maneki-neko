@@ -20,6 +20,7 @@ What good fortune shall I let you glean?
 - [Magerun2 plugin - List all API endpoints](https://github.com/bitExpert/magerun2-list-api-endpoints) — Plugin for netz98 Magerun2 to list all API endpoints.
 - [Magicento2](https://magicento.com/) — Magicento 2 is a PHPStorm plugin for Magento developers.
 - [Remove duplicate store view-specific product and category data](https://gist.github.com/erikhansen/d74f8022902b99fd8ce1c28c987fc43b)
+- [PHPStorm Templates for Magento 2](https://github.com/staempfli/magento2-phpstorm-templates) — 
 
 
 
