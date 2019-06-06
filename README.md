@@ -53,7 +53,7 @@ What good fortune shall I let you glean?
 - [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) — Displays a hint when a configuration value is overwritten on a lower scope website or store view.
 - [Product Grid Category Filter](https://github.com/aune-io/magento2-product-grid-category-filter) — Add category column and filter in an efficient way to the product grid in the Magento 2 admin.
 - [Auto Invoice](https://github.com/aune-io/magento2-autoinvoice) — Magento 2 procedure to automatically invoice orders in a given status.
-
+- [ResetUiBookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) — Usually a technical person ( e.g developer ) is required to reset those filters back to default. This can be annoying for a client and create unnecessarily noise for a developer team. Here are the advantages of Reset UI Bookmarks.
 
 
 #### B2B Enhancements
