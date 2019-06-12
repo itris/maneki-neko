@@ -40,6 +40,11 @@ What good fortune shall I let you glean?
 
 
 
+#### React / Vue in Magento 2
+- [Boilerplate for React](https://github.com/integer-net/magento2-reactapp) — Bootstrap template module / reference to build React Apps
+
+
+
 #### Backend Tools
 - [Login As Customer](https://github.com/magefan/module-login-as-customer) — Allows admin to login as a customer.
 - [Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) — Overviews of running crons in your Admin Panel.
@@ -54,6 +59,7 @@ What good fortune shall I let you glean?
 - [Product Grid Category Filter](https://github.com/aune-io/magento2-product-grid-category-filter) — Add category column and filter in an efficient way to the product grid in the Magento 2 admin.
 - [Auto Invoice](https://github.com/aune-io/magento2-autoinvoice) — Magento 2 procedure to automatically invoice orders in a given status.
 - [ResetUiBookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) — Usually a technical person ( e.g developer ) is required to reset those filters back to default. This can be annoying for a client and create unnecessarily noise for a developer team. Here are the advantages of Reset UI Bookmarks.
+
 
 
 #### B2B Enhancements
