@@ -17,7 +17,8 @@ What good fortune shall I let you glean?
 
 #### Tools
 - [N98-Magerun2](https://github.com/netz98/n98-magerun2) — The swiss army knife for Magento developers, sysadmins and devops.
-- [Magerun2 plugin - List all API endpoints](https://github.com/bitExpert/magerun2-list-api-endpoints) — Plugin for netz98 Magerun2 to list all API endpoints.
+- [Magerun2 plugin - List all API endpoints](https://github.com/bitExpert/magerun2-list-api-endpoints) — Plugin for Magerun2 to list all API endpoints.
+- [Magerun2 plugin - Password Normalizer](https://github.com/bitExpert/magerun2-password-normalizer) — Plugin for Magerun2 to changing the passwords and email-addresses for customer-accounts in bulk.
 - [Magicento2](https://magicento.com/) — Magicento 2 is a PHPStorm plugin for Magento developers.
 - [Remove duplicate store view-specific product and category data](https://gist.github.com/erikhansen/d74f8022902b99fd8ce1c28c987fc43b)
 - [PHPStorm Templates for Magento 2](https://github.com/staempfli/magento2-phpstorm-templates) — 
