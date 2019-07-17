@@ -121,4 +121,9 @@ What good fortune shall I let you glean?
 
 
 
+```
+composer require magento/product-community-edition 2.2.9 --no-update
+composer update
+```
+
 ---
