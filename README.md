@@ -74,7 +74,7 @@ What good fortune shall I let you glean?
 
 #### Email
 - [SMTP Extension](https://github.com/mageplaza/magento-2-smtp) — Flexible configurations with 21 different SMTP servers such as Gmail, Amazon SES, Mailgun, SendGrid, Mandrill or Custom SMTP - own SMTP server, etc.
-- [Email Catcher / Logger](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher) — Log all Emails send by Magento.
+- Email Catcher / Logger: [Experius - Email Catcher](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher) / [Staempfli - Mail-Catcher](https://github.com/staempfli/magento2-module-mailcatcher) — Log all Emails send by Magento.
 
 
 
