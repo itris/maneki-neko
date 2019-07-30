@@ -38,6 +38,8 @@ What good fortune shall I let you glean?
 - [Config-gen](https://github.com/WeareJH/config-gen) — Generate RequireJS Optimizer configuration for Magento 2 website based on real-world usage.
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) — The CheckoutTester extension allows you to preview the success-page of your Magento checkout.
 - [Preview Order Confirmation Page](https://github.com/magepal/magento2-preview-checkout-success-page/) — Easily preview and make changes to your success page without placing a new order or modifying Magento's core code, perfect for Magento frontend developers.
+- [Debug module](https://github.com/clawrock/magento2-debug) — Module for debugging Magento 2 performance.
+- [Twig Template Engine](https://github.com/clawrock/magento2-twig-engine) — Module implementing Twig as Magento 2 template engine. It works with default .phtml templates as fallback.
 
 
 
@@ -119,6 +121,10 @@ What good fortune shall I let you glean?
 #### Support Enhancements
 - [Zendesk](https://github.com/wagento/zendesk) — Official Zendesk module for Magento 2.
 
+
+
+#### Bi Enhancements
+- [Fullstory Script module](https://github.com/clawrock/magento2-fullstory) — Module for installation fullstory recording script and identify users with FS.identify function. The script sends customer email, full name and customer ID for logged users. 
 
 
 ```
