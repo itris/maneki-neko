@@ -40,12 +40,15 @@ What good fortune shall I let you glean?
 - [Preview Order Confirmation Page](https://github.com/magepal/magento2-preview-checkout-success-page/) — Easily preview and make changes to your success page without placing a new order or modifying Magento's core code, perfect for Magento frontend developers.
 - [Debug module](https://github.com/clawrock/magento2-debug) — Module for debugging Magento 2 performance.
 - [Twig Template Engine](https://github.com/clawrock/magento2-twig-engine) — Module implementing Twig as Magento 2 template engine. It works with default .phtml templates as fallback.
-- [Magento 2 DevTools](https://github.com/magento/m2-devtools) — Helpful in-browser debugging/inspection tools for the Magento 2 Front-End
+- [Magento 2 DevTools](https://github.com/magento/m2-devtools) — Helpful in-browser debugging/inspection tools for the Magento 2 Front-End.
 
 
 
 #### React / Vue in Magento 2
-- [Boilerplate for React](https://github.com/integer-net/magento2-reactapp) — Bootstrap template module / reference to build React Apps
+- [Boilerplate for React](https://github.com/integer-net/magento2-reactapp) — Bootstrap template module / reference to build React Apps.
+- [Vue Storefront](https://github.com/DivanteLtd/vue-storefront) — PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported.
+- [Scandipwa](https://github.com/scandipwa) — 
+- [Magento PWA Studio](https://github.com/magento/pwa-studio) — A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 
 
 
