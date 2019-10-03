@@ -47,7 +47,7 @@ What good fortune shall I let you glean?
 #### React / Vue in Magento 2
 - [Boilerplate for React](https://github.com/integer-net/magento2-reactapp) — Bootstrap template module / reference to build React Apps.
 - [Vue Storefront](https://github.com/DivanteLtd/vue-storefront) — PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported.
-- [Scandipwa](https://github.com/scandipwa) — 
+- [Scandipwa](https://github.com/scandipwa) — Progressive Web App for Magento.
 - [Magento PWA Studio](https://github.com/magento/pwa-studio) — A collection of tools that lets developers build complex Progressive Web Applications on top of Magento 2 stores.
 
 
