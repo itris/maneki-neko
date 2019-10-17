@@ -41,7 +41,7 @@ What good fortune shall I let you glean?
 - [Debug module](https://github.com/clawrock/magento2-debug) — Module for debugging Magento 2 performance.
 - [Twig Template Engine](https://github.com/clawrock/magento2-twig-engine) — Module implementing Twig as Magento 2 template engine. It works with default .phtml templates as fallback.
 - [Magento 2 DevTools](https://github.com/magento/m2-devtools) — Helpful in-browser debugging/inspection tools for the Magento 2 Front-End.
-- [Category Thumbnails](https://github.com/falconmedia/m2-categorythumbs) — Show Category images as Thumbnails in frontend. Widget for homepage included  .
+- [Category Thumbnails](https://github.com/falconmedia/m2-categorythumbs) — Show Category images as Thumbnails in frontend. Widget for homepage included.
 
 
 
