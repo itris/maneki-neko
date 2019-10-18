@@ -84,7 +84,8 @@ What good fortune shall I let you glean?
 #### Email
 - [SMTP Extension](https://github.com/mageplaza/magento-2-smtp) — Flexible configurations with 21 different SMTP servers such as Gmail, Amazon SES, Mailgun, SendGrid, Mandrill or Custom SMTP - own SMTP server, etc.
 - Email Catcher / Logger: [Experius - Email Catcher](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher) / [Staempfli - Mail-Catcher](https://github.com/staempfli/magento2-module-mailcatcher) — Log all Emails send by Magento.
-
+- [Notifier Mail Adapter](https://github.com/elgentos/magento2-notifier-mail-adapter) — With this module you can send magento template mails with only defining a template id and a receiver email.
+                                                                                        
 
 
 #### Sales Channels
@@ -134,8 +135,5 @@ What good fortune shall I let you glean?
 - [Fullstory Script module](https://github.com/clawrock/magento2-fullstory) — Module for installation fullstory recording script and identify users with FS.identify function. The script sends customer email, full name and customer ID for logged users. 
 
 
-```
-composer require magento/product-community-edition 2.2.9 --no-update && composer update
-```
-
+---
 ---
