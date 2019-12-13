@@ -43,7 +43,7 @@ What good fortune shall I let you glean?
 - [Magento 2 DevTools](https://github.com/magento/m2-devtools) — Helpful in-browser debugging/inspection tools for the Magento 2 Front-End.
 - [Category Thumbnails](https://github.com/falconmedia/m2-categorythumbs) — Show Category images as Thumbnails in frontend. Widget for homepage included.
 - [Defer Javascripts module for Magento 2](https://github.com/fballiano/magento2-defer-javascripts) — If you have a different version of Magento and the module is working please drop me a line so I can update this compatibility list.
-
+- [WeareJH/m2-dev-tools](https://github.com/magento/m2-devtools) / [WeareJH/m2-module-jh-block-logger](https://github.com/WeareJH/m2-module-jh-block-logger) — Chrome Extension for Magento 2 Frontend.
 
 
 #### React / Vue in Magento 2
