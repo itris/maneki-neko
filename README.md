@@ -109,6 +109,7 @@ What good fortune shall I let you glean?
 - [Tracking Link](https://github.com/karliuka/m2.TrackingLink) — Adds Tracking Url in Shipment Email.
 - [Shipping Tweaks](https://github.com/karliuka/m2.ShippingTweaks) — Hides any other shipping methods if free shipping is available.
 - [Sales Sequence](https://github.com/karliuka/m2.SalesSequence) — Change format IncrementID for orders, invoices, credit memos and shipments.
+- [RMA for Magento Open Source](https://github.com/auroraextensions/simplereturns) — Simple Returns provides enhanced RMA functionality for Magento Open Source. It extends the default RMA capabilities built into Magento Open Source1 and offers several additional features.
 
 
 
