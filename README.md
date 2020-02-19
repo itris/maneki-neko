@@ -24,7 +24,8 @@ What good fortune shall I let you glean?
 - [PHPStorm Templates for Magento 2](https://github.com/staempfli/magento2-phpstorm-templates) — 
 - [Magento 2 removal of all optional modules](https://github.com/yireo/magento2-replace-all) — This repository contains a composer meta-package that removes numerous Magento 2 modules, making your environment lighter.
 - [EAV Cleaner Console Command](https://github.com/magento-hackathon/EAVCleaner/tree/magento2) — Purpose of this project is to check for different flaws that can occur due to EAV and provide cleanup functions.
-                                                                                                 
+- [Ziggy](https://experius.github.io/ziggy/) — Ziggy is the buddy for Akeneo developers. He provides command line commands which will save you hours of work because he does it for you.
+                                                                                      
 
 
 #### Patch Helpers
