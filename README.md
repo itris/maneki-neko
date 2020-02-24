@@ -75,6 +75,7 @@ What good fortune shall I let you glean?
 - [Reindexing in the Admin Panel](https://github.com/yireo/Yireo_BackendReindexer) — Magento 2 by default has no way to reindex from within the Magento Admin Panel. This module adds a massaction to reindex from the backend anyway.
 - [Notifier Framework for Magento 2](https://github.com/magespecialist/notifier) — Messaging framework for Magento 2 allowing users and developers to easily integrate a wide set of communication channels (Telegram, Slack and others) for real-time notification.
 - [Better Magento 2 WYSIWYG TinyMCE4](https://github.com/magefan/module-wysiwyg-advanced) — This extension allows you to extend TinyMCE 4 tools in Magento 2, e.g.: add text color, image, html code, undo-redo, styleselect, fontsizeselect, forecolor backcolor, bold, italic, underline, strikethrough, alignleft, aligncenter, alignright alignjustify, bullist, numlist, outdent, indent, table, image, code.
+- [Magento 2 Webhook](https://github.com/mageplaza/magento-2-webhook) — supports online store to send an API request via a webhook to a configurable destination (URL) when specific trigger events take place. Webhook a very useful and necessary tool which allows stores to update instant and real-time notifications.
 
 
 
