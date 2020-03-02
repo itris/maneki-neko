@@ -47,6 +47,12 @@ What good fortune shall I let you glean?
 - [Category Thumbnails](https://github.com/falconmedia/m2-categorythumbs) — Show Category images as Thumbnails in frontend. Widget for homepage included.
 - [Defer Javascripts module for Magento 2](https://github.com/fballiano/magento2-defer-javascripts) — If you have a different version of Magento and the module is working please drop me a line so I can update this compatibility list.
 - [WeareJH/m2-dev-tools](https://github.com/magento/m2-devtools) / [WeareJH/m2-module-jh-block-logger](https://github.com/WeareJH/m2-module-jh-block-logger) — Chrome Extension for Magento 2 Frontend.
+- [Smile ElasticSuite](https://github.com/Smile-SA/elasticsuite) — Merchandising and search engine built on ElasticSearch.
+- [Reusable modal component](https://github.com/fisheyehq/module-modal) — A Magento 2 module that adds a reusable modal component that can be configured using layout XML arguments.
+- [Lazy loading](https://github.com/fisheyehq/module-lazyload) — A Magento 2 module that adds support for lazy loading of images.
+- [Ask Questions](https://github.com/ibiztech/ask-questions-m2) — Addon for Magento 2, Which enables users to ask questions about any product.
+- [Hoverslider](https://github.com/ronak2ram/magento2-hoverslider) — Magento2 Product list page on image hover on slider. This extension working for 2.2.x and 2.3.x.
+- [Easy Template Path Hints](https://github.com/MagePsycho/magento2-easy-template-path-hints) — Magento 2 Easy Template Path Hints is used to enable the template path hints on the fly just by using query strings.  
 
 
 
@@ -68,7 +74,7 @@ What good fortune shall I let you glean?
 - [Product Category Url Fix](https://github.com/aune-io/magento2-product-category-url-fix) — Fix Magento 2 core behaviour on product category url generation.
 - [Log to Sentry](https://github.com/justbetter/magento2-sentry) — Module integrates the Sentry sdk into magento 2. Depending on the log level configured in the backend of magento 2, notifications and errors can be send to sentry.
 - [Whoops error handling](https://github.com/yireo/Yireo_Whoops) — This module replaces the default error and exception handling of Magento 2, and replaces it with Whoops.
-- [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) — Displays a hint when a configuration value is overwritten on a lower scope website or store view.
+- [AvS_ScopeHint2](https://github.com/avstudnitz/AvS_ScopeHint2) / [EW_ConfigScopeHints](https://github.com/ericthehacker/magento2-configscopehints) — Displays a hint when a configuration value is overwritten on a lower scope website or store view.
 - [Product Grid Category Filter](https://github.com/aune-io/magento2-product-grid-category-filter) — Add category column and filter in an efficient way to the product grid in the Magento 2 admin.
 - [Auto Invoice](https://github.com/aune-io/magento2-autoinvoice) — Magento 2 procedure to automatically invoice orders in a given status.
 - [ResetUiBookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) — Usually a technical person ( e.g developer ) is required to reset those filters back to default. This can be annoying for a client and create unnecessarily noise for a developer team. Here are the advantages of Reset UI Bookmarks.
@@ -77,6 +83,13 @@ What good fortune shall I let you glean?
 - [Better Magento 2 WYSIWYG TinyMCE4](https://github.com/magefan/module-wysiwyg-advanced) — This extension allows you to extend TinyMCE 4 tools in Magento 2, e.g.: add text color, image, html code, undo-redo, styleselect, fontsizeselect, forecolor backcolor, bold, italic, underline, strikethrough, alignleft, aligncenter, alignright alignjustify, bullist, numlist, outdent, indent, table, image, code.
 - [Magento 2 Webhook](https://github.com/mageplaza/magento-2-webhook) — supports online store to send an API request via a webhook to a configurable destination (URL) when specific trigger events take place. Webhook a very useful and necessary tool which allows stores to update instant and real-time notifications.
 - [Clean admin menu](https://github.com/redchamps/clean-admin-menu) — Cleanup admin menu and Store > Configuration area by arranging third party extension items.
+- [Disable stock reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) — This module disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
+- [Page Not Found 404 Module](https://github.com/experius/Magento-2-Module-PageNotFound) — This module saves all 404 url to a database table.
+- [Database logger](https://github.com/experius/Magento-2-Module-Experius-Dblogger) — Stores logs to database instead of files and a custom grid to see this data.
+- [Admin Activity](https://github.com/kiwicommerce/magento2-admin-activity) — Easily track every admin activity like add, edit, delete, print, view, mass update etc.
+- [Magento2 updateSKU](https://github.com/ronak2ram/magento2-SkuUpdate) — Bulk SKU update using csv file. csv in add list of old_sku,new_sku.
+- [WebP support to Magento](https://github.com/yireo/Yireo_Webp2) — Magento 2 module to add WebP support to Magento 2.
+- [Temporary Admin Accounts](https://github.com/redchamps/temporary-admin-accounts) — Magento 2 Extension to allow creation of temporary admin accounts.
 
 
 
@@ -92,7 +105,8 @@ What good fortune shall I let you glean?
 - [SMTP Extension](https://github.com/mageplaza/magento-2-smtp) — Flexible configurations with 21 different SMTP servers such as Gmail, Amazon SES, Mailgun, SendGrid, Mandrill or Custom SMTP - own SMTP server, etc.
 - Email Catcher / Logger: [Experius - Email Catcher](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher) / [Staempfli - Mail-Catcher](https://github.com/staempfli/magento2-module-mailcatcher) — Log all Emails send by Magento.
 - [Notifier Mail Adapter](https://github.com/elgentos/magento2-notifier-mail-adapter) — With this module you can send magento template mails with only defining a template id and a receiver email.
-                                                                                        
+- [Enhanced SMTP by KiwiCommerce](https://github.com/kiwicommerce/magento2-enhanced-smtp) — Delivering messages is an essential and mandatory part of running an e-Commerce business.
+
 
 
 #### Sales Channels
