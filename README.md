@@ -37,7 +37,7 @@ What good fortune shall I let you glean?
 #### Frontend Tools
 - [Advanced Template Hints module](https://github.com/ho-nl/magento2-Ho_Templatehints) — Shows hints for Templates, AbstractBlocks (Blocks), Containers and UI Components.
 - [Cache Clean - A faster drop in replacement for bin/magento cache:clean with file watcher](https://github.com/mage2tv/magento-cache-clean) — The file watcher automatically cleans affected cache types in the Magento 2 cache during development.
-- [Cache Clear](https://github.com/danslo/CacheClear) — Clears cache types when they become invalidated.
+- [Cache Clear](https://github.com/daredchamps/module-clean-admin-menunslo/CacheClear) — Clears cache types when they become invalidated.
 - [Config-gen](https://github.com/WeareJH/config-gen) — Generate RequireJS Optimizer configuration for Magento 2 website based on real-world usage.
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) — The CheckoutTester extension allows you to preview the success-page of your Magento checkout.
 - [Preview Order Confirmation Page](https://github.com/magepal/magento2-preview-checkout-success-page/) — Easily preview and make changes to your success page without placing a new order or modifying Magento's core code, perfect for Magento frontend developers.
@@ -76,6 +76,7 @@ What good fortune shall I let you glean?
 - [Notifier Framework for Magento 2](https://github.com/magespecialist/notifier) — Messaging framework for Magento 2 allowing users and developers to easily integrate a wide set of communication channels (Telegram, Slack and others) for real-time notification.
 - [Better Magento 2 WYSIWYG TinyMCE4](https://github.com/magefan/module-wysiwyg-advanced) — This extension allows you to extend TinyMCE 4 tools in Magento 2, e.g.: add text color, image, html code, undo-redo, styleselect, fontsizeselect, forecolor backcolor, bold, italic, underline, strikethrough, alignleft, aligncenter, alignright alignjustify, bullist, numlist, outdent, indent, table, image, code.
 - [Magento 2 Webhook](https://github.com/mageplaza/magento-2-webhook) — supports online store to send an API request via a webhook to a configurable destination (URL) when specific trigger events take place. Webhook a very useful and necessary tool which allows stores to update instant and real-time notifications.
+- [Clean admin menu](https://github.com/redchamps/clean-admin-menu) — Cleanup admin menu and Store > Configuration area by arranging third party extension items.
 
 
 
