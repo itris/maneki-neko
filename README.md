@@ -99,7 +99,7 @@ What good fortune shall I let you glean?
 - [B2B Utils](https://github.com/aune-io/magento2-b2butils) — Allows a store owner to manually approve new customers before they can successfully login and show prices only to registered / logged in users.                                                                                                                                                           
 - [Product Available](https://github.com/karliuka/m2.ProductAvailable) — Extension allows the store owner to hide the product price and add to cart button from guests or certain customer groups. 
 - [Customer Approval](https://github.com/mageplaza/magento-2-customer-approval) — Customer Approval is a solution which helps store owner to approve or reject new account registration from customers in specific cases.
-
+- [Disable customer registration](https://github.com/deved-it/magento2-disable-customer-registration) — A simple module to disable customer registration in Magento 2.
 
 
 #### Email
