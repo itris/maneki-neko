@@ -90,7 +90,7 @@ What good fortune shall I let you glean?
 - [Magento2 updateSKU](https://github.com/ronak2ram/magento2-SkuUpdate) — Bulk SKU update using csv file. csv in add list of old_sku,new_sku.
 - [WebP support to Magento](https://github.com/yireo/Yireo_Webp2) — Magento 2 module to add WebP support to Magento 2.
 - [Temporary Admin Accounts](https://github.com/redchamps/temporary-admin-accounts) — Magento 2 Extension to allow creation of temporary admin accounts.
-
+- [Disable Two Factor Auth](https://github.com/markshust/magento2-module-disabletwofactorauth) — Provides the ability to disable two-factor authentication for Magento 2.4.
 
 
 #### B2B Enhancements
