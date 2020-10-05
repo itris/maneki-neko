@@ -24,13 +24,14 @@ What good fortune shall I let you glean?
 - [PHPStorm Templates for Magento 2](https://github.com/staempfli/magento2-phpstorm-templates) — 
 - [Magento 2 removal of all optional modules](https://github.com/yireo/magento2-replace-all) — This repository contains a composer meta-package that removes numerous Magento 2 modules, making your environment lighter.
 - [EAV Cleaner Console Command](https://github.com/magento-hackathon/EAVCleaner/tree/magento2) — Purpose of this project is to check for different flaws that can occur due to EAV and provide cleanup functions.
-- [Ziggy](https://experius.github.io/ziggy/) — Ziggy is the buddy for Akeneo developers. He provides command line commands which will save you hours of work because he does it for you.
-                                                                                      
+- [Ziggy](https://experius.github.io/ziggy/) — Ziggy is the buddy for Akeneo developers. He provides command line commands which will save you hours of work because he does it for you.                      
+
 
 
 #### Patch Helpers
 - [Upgrade Patch Helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) — This tool looks for files which have been modified as part of the upgrade and attempts to see if you have any overrides in your site.
 - [Simple patches plugin for Composer](https://github.com/cweagans/composer-patches) — Applies a patch from a local or remote file to any package required with composer.
+- [Vaimo Composer Patches](https://github.com/vaimo/composer-patches) — Applies a patch from a local or remote file to any package that is part of a given composer project. Patches can be defined both on project and on package level in package config or separate JSON file.
 
 
 
@@ -93,10 +94,11 @@ What good fortune shall I let you glean?
 - [Disable Two Factor Auth](https://github.com/markshust/magento2-module-disabletwofactorauth) — Provides the ability to disable two-factor authentication for Magento 2.4.
 
 
+
 #### B2B Enhancements
 - [Force Login Module](https://github.com/bitExpert/magento2-force-login) — Force your guest visitors to log in first (or register), before allowing them to visit your pages and catalog.
 - [Disable Customer Registration](https://github.com/deved-it/magento2-disable-customer-registration) — Disable the customer registration in your Magento store. It can be very useful in cases where Admin wants to create account for customers.
-- [B2B Utils](https://github.com/aune-io/magento2-b2butils) — Allows a store owner to manually approve new customers before they can successfully login and show prices only to registered / logged in users.                                                                                                                                                           
+- [B2B Utils](https://github.com/aune-io/magento2-b2butils) — Allows a store owner to manually approve new customers before they can successfully login and show prices only to registered / logged in users.
 - [Product Available](https://github.com/karliuka/m2.ProductAvailable) — Extension allows the store owner to hide the product price and add to cart button from guests or certain customer groups. 
 - [Customer Approval](https://github.com/mageplaza/magento-2-customer-approval) — Customer Approval is a solution which helps store owner to approve or reject new account registration from customers in specific cases.
 - [Disable customer registration](https://github.com/deved-it/magento2-disable-customer-registration) — A simple module to disable customer registration in Magento 2.
@@ -148,6 +150,7 @@ What good fortune shall I let you glean?
 #### Frontend Enhancements 
 - [Breadcrumbs](https://github.com/karliuka/m2.Breadcrumbs) — Extension add breadcrumbs to pages in Magento 2 that by default do not have breadcrumbs.                       
 - [Smart Category](https://github.com/karliuka/m2.SmartCategory) & [Smart Category Configurable](https://github.com/karliuka/m2.SmartCategoryConfigurable) — You can create categories based on rules you specify, and then update these categories automatically as your products changes.
+
 
 
 #### Support Enhancements
