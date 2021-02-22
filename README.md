@@ -73,6 +73,7 @@ What good fortune shall I let you glean?
 - [URL Rewrite optimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) — A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in config.
 - [Indexer UrlRewrite](https://github.com/karliuka/m2.IndexerUrlRewrite) — Rebuild UrlRewrite index.
 - [Product Category Url Fix](https://github.com/aune-io/magento2-product-category-url-fix) — Fix Magento 2 core behaviour on product category url generation.
+- [Url data integrity checker](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) — Url data integrity checker module for Magento 2.
 - [Log to Sentry](https://github.com/justbetter/magento2-sentry) — Module integrates the Sentry sdk into magento 2. Depending on the log level configured in the backend of magento 2, notifications and errors can be send to sentry.
 - [Whoops error handling](https://github.com/yireo/Yireo_Whoops) — This module replaces the default error and exception handling of Magento 2, and replaces it with Whoops.
 - [AvS_ScopeHint2](https://github.com/avstudnitz/AvS_ScopeHint2) / [EW_ConfigScopeHints](https://github.com/ericthehacker/magento2-configscopehints) — Displays a hint when a configuration value is overwritten on a lower scope website or store view.
