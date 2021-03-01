@@ -44,6 +44,7 @@ What good fortune shall I let you glean?
 - [Preview Order Confirmation Page](https://github.com/magepal/magento2-preview-checkout-success-page/) — Easily preview and make changes to your success page without placing a new order or modifying Magento's core code, perfect for Magento frontend developers.
 - [Debug module](https://github.com/clawrock/magento2-debug) — Module for debugging Magento 2 performance.
 - [Twig Template Engine](https://github.com/clawrock/magento2-twig-engine) — Module implementing Twig as Magento 2 template engine. It works with default .phtml templates as fallback.
+- [Magento2 Twig Template Engine](https://github.com/SchumacherFM/Magento2-Twig) — This template engine is meant to be used additionally to the .phtml files and does not provide any .twig template file.
 - [Magento 2 DevTools](https://github.com/magento/m2-devtools) — Helpful in-browser debugging/inspection tools for the Magento 2 Front-End.
 - [Category Thumbnails](https://github.com/falconmedia/m2-categorythumbs) — Show Category images as Thumbnails in frontend. Widget for homepage included.
 - [Defer Javascripts module for Magento 2](https://github.com/fballiano/magento2-defer-javascripts) — If you have a different version of Magento and the module is working please drop me a line so I can update this compatibility list.
