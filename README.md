@@ -94,6 +94,7 @@ What good fortune shall I let you glean?
 - [WebP support to Magento](https://github.com/yireo/Yireo_Webp2) — Magento 2 module to add WebP support to Magento 2.
 - [Temporary Admin Accounts](https://github.com/redchamps/temporary-admin-accounts) — Magento 2 Extension to allow creation of temporary admin accounts.
 - [Disable Two Factor Auth](https://github.com/markshust/magento2-module-disabletwofactorauth) — Provides the ability to disable two-factor authentication for Magento 2.4.
+- [CMS Commands for Magento2](https://github.com/do-it-well/magento2-module-cms-command) — A Magento2 Module providing CMS-related command-line tools.
 
 
 
