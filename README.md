@@ -95,6 +95,9 @@ What good fortune shall I let you glean?
 - [Temporary Admin Accounts](https://github.com/redchamps/temporary-admin-accounts) — Magento 2 Extension to allow creation of temporary admin accounts.
 - [Disable Two Factor Auth](https://github.com/markshust/magento2-module-disabletwofactorauth) — Provides the ability to disable two-factor authentication for Magento 2.4.
 - [CMS Commands for Magento2](https://github.com/do-it-well/magento2-module-cms-command) — A Magento2 Module providing CMS-related command-line tools.
+- [Mage2 Module Experius MissingTranslations](https://github.com/experius/Magento-2-Module-Experius-MissingTranslations) — Add a CLI command to Collect missing translations in specified folder or the entire Magento 2 Root and add an Admin Grid to display and update or add database/inline translations.
+- [Url data integrity checker module for Magento 2](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) — The purpose of this module is to give store owners of a Magento 2 shop insight into what url-related problems they have in their products, categories and url rewrites.
+- [Fisheye UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) — A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in config.
 
 
 
