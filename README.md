@@ -99,6 +99,8 @@ What good fortune shall I let you glean?
 - [Url data integrity checker module for Magento 2](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) — The purpose of this module is to give store owners of a Magento 2 shop insight into what url-related problems they have in their products, categories and url rewrites.
 - [Fisheye UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) — A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in config.
 - [ThankIT ConfigurableWizard](https://github.com/PiscesThankIT/ThankIT_ConfigurableWizard) — Magento 2 New Configurable product - selecting existing simple products manually.
+- [Magento webapi logs](https://github.com/ghostunicorns/module-webapi-logs) — Allows you to analyze all the webapi rest done call toward your magento.
+
 
 
 #### B2B Enhancements
