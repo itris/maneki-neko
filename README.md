@@ -32,7 +32,7 @@ What good fortune shall I let you glean?
 - [Upgrade Patch Helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) — This tool looks for files which have been modified as part of the upgrade and attempts to see if you have any overrides in your site.
 - [Simple patches plugin for Composer](https://github.com/cweagans/composer-patches) — Applies a patch from a local or remote file to any package required with composer.
 - [Vaimo Composer Patches](https://github.com/vaimo/composer-patches) — Applies a patch from a local or remote file to any package that is part of a given composer project. Patches can be defined both on project and on package level in package config or separate JSON file.
-
+- [Magento2 PHP8 version compatibility check](https://github.com/willtran/magento2-php-8-compatibility-check) — This app will run PHP_CodeSniffer with phpcompatibility/php-compatibility on the Magento2 doc root
 
 
 #### Frontend Tools
