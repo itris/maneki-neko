@@ -101,6 +101,7 @@ What good fortune shall I let you glean?
 - [ThankIT ConfigurableWizard](https://github.com/PiscesThankIT/ThankIT_ConfigurableWizard) — Magento 2 New Configurable product - selecting existing simple products manually.
 - [Magento webapi logs](https://github.com/ghostunicorns/module-webapi-logs) — Allows you to analyze all the webapi rest done call toward your magento.
 - [Magento Compiled Interceptors](https://github.com/creatuity/magento2-interceptors) — This component changes the way Magento 2 generates Interceptor classes (a mechanism that allows plugins to work together).
+- [Ghostunicorns webapi logs](https://github.com/ghostunicorns/module-webapi-logs) — This module allows you to analyze all the webapi rest done call toward your magento.
 
 
 #### B2B Enhancements
