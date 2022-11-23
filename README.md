@@ -35,6 +35,7 @@ What good fortune shall I let you glean?
 - [Magento2 PHP8 version compatibility check](https://github.com/willtran/magento2-php-8-compatibility-check) — This app will run PHP_CodeSniffer with phpcompatibility/php-compatibility on the Magento2 doc root
 
 
+
 #### Frontend Tools
 - [Advanced Template Hints module](https://github.com/ho-nl/magento2-Ho_Templatehints) — Shows hints for Templates, AbstractBlocks (Blocks), Containers and UI Components.
 - [Cache Clean - A faster drop in replacement for bin/magento cache:clean with file watcher](https://github.com/mage2tv/magento-cache-clean) — The file watcher automatically cleans affected cache types in the Magento 2 cache during development.
@@ -99,9 +100,11 @@ What good fortune shall I let you glean?
 - [Url data integrity checker module for Magento 2](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) — The purpose of this module is to give store owners of a Magento 2 shop insight into what url-related problems they have in their products, categories and url rewrites.
 - [Fisheye UrlRewriteOptimiser](https://github.com/fisheyehq/module-url-rewrite-optimiser) — A Magento module that stops URL rewrites with category paths being generated for products when 'Use Categories Path for Product URLs' setting is disabled in config.
 - [ThankIT ConfigurableWizard](https://github.com/PiscesThankIT/ThankIT_ConfigurableWizard) — Magento 2 New Configurable product - selecting existing simple products manually.
-- [Magento webapi logs](https://github.com/ghostunicorns/module-webapi-logs) — Allows you to analyze all the webapi rest done call toward your magento.
+- [Magento Webapi Logs](https://github.com/ghostunicorns/module-webapi-logs) — Allows you to analyze all the webapi rest done call toward your magento.
 - [Magento Compiled Interceptors](https://github.com/creatuity/magento2-interceptors) — This component changes the way Magento 2 generates Interceptor classes (a mechanism that allows plugins to work together).
 - [Ghostunicorns webapi logs](https://github.com/ghostunicorns/module-webapi-logs) — This module allows you to analyze all the webapi rest done call toward your magento.
+- [Single Image Resize Tool](https://github.com/kevinruscoe/SingleImageResizer) — A Magento 2 module offering a way to resize a single products images, or an individual image.
+
 
 
 #### B2B Enhancements
